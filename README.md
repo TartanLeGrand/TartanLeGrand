@@ -7,7 +7,7 @@ Software Engineer
 I started with computers at a young age. I went from front to backend, from monolithic architecture to microservices, from manual deployment of applications and infrastructure to infrastructure as code and automatic deployment.
 
 * 🌍  I'm based in Lyon, France
-* 🧠  I'm learning Kubernetes, Ansible, Terraform and BDD with Cucumber and SpecFlow
+* 🧠  I'm learning Machine learning
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  Founder of GameVerse.app
 
