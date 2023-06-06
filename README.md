@@ -9,7 +9,7 @@ I started with computers at a young age. I went from front to backend, from mono
 * 🌍  I'm based in Lyon, France
 * 🧠  I'm learning Machine learning
 * 🤝  I'm open to collaborating on any interesting project
-* ⚡  Founder of GameVerse.app
+* ⚡  Founder of @Gameverse-App
 
 <a href="https://www.twitter.com/tartanlegrand" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tartanlegrand?logo=twitter&style=for-the-badge&color=84cc16&labelColor=1e3a8a"
